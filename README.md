@@ -2,8 +2,8 @@
 
 ## 安装步骤
 
-- [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg)
-- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+- Windows：[Clash.for.Windows.Setup.x.xx.xx.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases/)
+- Android：[cfa-x.x.xx-foss-arm64-v8a-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
 - 使用默认安装即可。
 
 ## 订阅地址
